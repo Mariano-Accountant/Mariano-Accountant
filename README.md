@@ -1,16 +1,25 @@
-## Hi there 👋
+### Mariano Jacquet — Finance Data Analyst
 
-<!--
-**Mariano-Accountant/Mariano-Accountant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Finance & tax background applied to data — automating reconciliations, building reports, and making numbers actually useful for business decisions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**
+
+Excel · Power Query · Power Pivot · SQL · SSMS · Power BI · Python (in progress)
+
+---
+
+**Projects**
+
+| # | Project | Tools | Focus | Status |
+|---|---------|-------|-------|--------|
+| 1 | [Bank Reconciliation Automation](https://github.com/Mariano-Accountant/bank-reconciliation-automation) | Excel · Power Query | Accuracy & speed | ✅ Done |
+| 2 | Cash Flow Forecast Model | Excel · Power Pivot | FP&A | 🔄 Next |
+| 3 | AR Aging & Risk Score | SQL · Excel | Credit risk | 📋 Planned |
+
+---
+
+📍 Barcelona  ·  🌍 Open to remote
+
+[LinkedIn](https://www.linkedin.com/in/marianoaccountant/) · mnjacquet1@gmail.com
