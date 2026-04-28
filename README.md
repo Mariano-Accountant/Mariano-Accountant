@@ -1,6 +1,6 @@
 ### Mariano Jacquet — Finance Data Analyst
 
-Finance & tax background applied to data — automating reconciliations, building reports, and making numbers actually useful for business decisions.
+Finance & Tax background applied to data — automating reconciliations, building reports, and making numbers actually useful for business decisions.
 
 ---
 
