@@ -16,7 +16,7 @@ Excel · Power Query · Power Pivot · SQL · SSMS · Power BI · Python (in pro
 |---|---------|-------|-------|--------|
 | 1 | [Bank Reconciliation Automation](https://github.com/Mariano-Accountant/bank-reconciliation-automation) | Excel · Power Query | Accuracy & speed | ✅ Done |
 | 2 | Cash Flow Forecast Model | Excel · Power Pivot | FP&A | 🔄 Next |
-| 3 | AR Aging & Risk Score | SQL · Excel | Credit risk | 📋 Planned |
+| 3 | [AR Aging & Risk Score](https://github.com/Mariano-Accountant/AR_Aging_Risk_Score) | Excel · Power Query | Credit risk | ✅ Done |
 
 ---
 
